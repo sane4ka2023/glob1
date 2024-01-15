@@ -1,3 +1,3 @@
 name = 'Sasha'
 login = True
-banned = False
+banned = True
